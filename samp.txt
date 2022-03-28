@@ -1,0 +1,7 @@
+I am a sample text file created by JS_Lover
+
+I am just adding dummy text here, so that text can be much
+
+I really don't know what to write.
+
+But yeah, am just writting shit
